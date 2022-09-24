@@ -5,4 +5,5 @@ It is not yet finished, so you will need to tweak it for directories etc
 
 Problems fixed
 1) Remove the widths next to imported images(eg {width="7.28125in" height="5.302083333333333in"})
-2) Fix URLs to media in a subfolder. The default stores the full file path in the note, which is not very portable
+2) Fix URLs to media in a subfolder. The default stores the full file path in the note, which is not portable
+    Sample before change: c:\temp\notes\BOOK1\SHEET1/media/pic1.jpg is changed to media/pic1.jpg
